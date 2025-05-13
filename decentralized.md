@@ -11,3 +11,11 @@
 - logos
 - media
 - jonathan-internship
+- bellissimo
+- invocation
+- interface
+- `spin`
+   - "half-mast": no spin
+   - celebration: spin 
+- portal
+- details
