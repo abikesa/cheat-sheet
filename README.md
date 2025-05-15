@@ -1,6 +1,6 @@
 # 📦 Ukubona Bundle v1.3.7
 
-> *Corrective/Reframe: Existence before Essence*
+> *Corrective/Reframe: Existence precedes Essence*
 
 ---
 
